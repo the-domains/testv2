@@ -1,14 +1,26 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.587234
 color:
   saturation: 0.8468085
   brandStrength: 0.9021277
-  lightness: 0.8042553
+  rhythmicContrast: 0.3106383
   brandColors:
     - '#FFFFFF'
     - '#01033A'
     - '#DFD8DB'
     - '#B7AA64'
     - '#445877'
-  rhythmicContrast: 0.3106383
-typography_spectrum: 0.587234
+  lightness: 0.8042553
+layout_spectrum: 0.6893617
 name: RepublicOf1.Blog
