@@ -1,14 +1,14 @@
-layout_spectrum: 0.3086724
+layout_spectrum: 0
 color:
   saturation: 0.8468085
   brandStrength: 0.9021277
-  lightness: 0.4042553
+  lightness: 0.8042553
   brandColors:
     - '#FFFFFF'
     - '#01033A'
     - '#DFD8DB'
     - '#B7AA64'
     - '#445877'
-  rhythmicContrast: 0.7181242
+  rhythmicContrast: 0.3106383
 typography_spectrum: 0.587234
 name: RepublicOf1.Blog
